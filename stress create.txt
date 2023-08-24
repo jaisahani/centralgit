@@ -1,0 +1,3 @@
+yum install stess -y
+
+stess -c 2

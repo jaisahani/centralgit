@@ -1,0 +1,27 @@
+
+
+Participate in system design planning, review and drive the implementation with the team to create Kubernetes-based platforms as a service in all major cloud environments (Azure, AWS, GCP) and as well on-prem.
+Participate in Architectural working groups to discuss on key technical approaches to deliver the business goals.
+Participate in modern agile software development, like:
+Scrum o JIRA
+Design and Delivery of programmable infrastructure (Infrastructure as Code) using a modern tool stack including, but not limited to:
+Hands-on experience in Scripting and programming languages like:
+Bash, Python, Java, JavaScript, Go
+Infrastructure tools like: • Terraform, Pulumi, and Ansible (Chef, Puppet)
+Cloud provider cli like • Azure cli, AWS cli • Source code control systems like: Git, Bitbucket, Github
+Modern pipelines like • Github actions, Azure pipelines, Tekton. dev
+
+
+Must have at least 2 years of hands on experience with Google Cloud
+Must have at least 2 years of hands on experience with the Google Cloud Landing Zone, Compute, Networking, Storage, Databases, Cloud IAM, Cloud Logging and Monitoring, etc.
+Must have at least 2 years of hands on experience with terraform infra automation
+Must have at least 2 years of hands on experience with Docker, Docker Compose and Kubernetes Container Orchestration
+Must be able to develop custom terraform modules as per the customer requirements, 
+Must be able to write Dockerfiles, Kubernetes Manifest files and helm charts
+Must have the knowledge on DevOps tools like Jenkins Server, ArgoCD, Spinnaker, GitOps, etc
+Must have the knowledge on Prometheus, Grafana, ELK Stack, Vault, Istio, etc
+Must have the knowledge on Nginx, HAProxy, etc
+Having hands on experience of Bash and Python scripting is addition
+Having knowledge on Thanos, Istio, Open Telemetry, Knative, any other CNCF Graduated projects
+Having the Linux/Windows Administrative Background is addition
+
