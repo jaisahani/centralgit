@@ -1,4 +1,4 @@
-
+hi every one
 
 Participate in system design planning, review and drive the implementation with the team to create Kubernetes-based platforms as a service in all major cloud environments (Azure, AWS, GCP) and as well on-prem.
 Participate in Architectural working groups to discuss on key technical approaches to deliver the business goals.
